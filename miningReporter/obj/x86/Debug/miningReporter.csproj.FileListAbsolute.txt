@@ -1,0 +1,8 @@
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\bin\Debug\miningReporter.exe
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\bin\Debug\miningReporter.pdb
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\obj\x86\Debug\miningReporter.exe
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\obj\x86\Debug\miningReporter.pdb
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\bin\Debug\itextsharp.dll
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\bin\Debug\Pdfizer.dll
+C:\Users\alper\Documents\GitHub\miningReporter\miningReporter\obj\x86\Debug\miningReporter.csprojResolveAssemblyReference.cache
